@@ -133,7 +133,7 @@ GCC: (GNU) 10.2.1 20201203
 <!-- SW-05 -->
 <details>
 <summary>sw-05</summary>
-This challenge is similar to the previous one, except that this time is recommended to use [ghidra](https://ghidra-sre.org/)
+This challenge is similar to the previous one, except that this time is recommended to use <a href="https://ghidra-sre.org">Ghidra</a>.
 Objdump can go a long way, but this time i felt the need of something more suitable for the job.
 In ghidra i began to rename some variables auto-generated and this was the code that i was left with:
 
